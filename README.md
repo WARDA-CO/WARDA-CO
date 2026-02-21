@@ -3,9 +3,6 @@
 
 I am warda a Front-End Developer specialized in designing and developing modern, responsive, and high-performance websites. I transform ideas into engaging and seamless digital experiences using HTML, CSS, and JavaScript (Vanilla JavaScript), with a strong focus on writing clean, well-structured, and scalable code without excessive reliance on ready-made libraries.
 
-I have experience building company websites, landing pages, and portfolio projects, with careful attention to UX/UI, loading speed, and performance optimization. I prioritize creating dynamic and interactive interfaces using Vanilla JavaScript to ensure full control and optimal performance.
-
-I also utilize modern tools — including AI technologies — to support the development process and accelerate execution while maintaining professional quality standards.
 
 My goal is to craft digital interfaces that clearly reflect brand identity and deliver an effective, distinctive user experience.
 
